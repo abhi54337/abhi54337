@@ -1,5 +1,13 @@
-# 💫 About Me:      I'ABHISHEK YADAV
-I'm currently studing<br>i study btech in cse <br>aim is to a web site develpoer<br>
+
+## 👋 About Me
+
+Hi, I'm **Abhishek Yadav** 👨‍💻  
+I'm currently pursuing **B.Tech in Computer Science Engineering (CSE)**.<br>
+
+I am passionate about **web development** and enjoy building clean, responsive, and user-friendly websites. <br> 
+My goal is to become a **skilled Full-Stack Web Developer** and continuously learn new technologies. <br> 
+
+I love exploring new tools, improving my coding skills, and working on real-world projects 🚀 <br> 
 
 
 ## 🌐 Socials:
